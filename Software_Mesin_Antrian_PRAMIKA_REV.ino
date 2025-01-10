@@ -1,8 +1,8 @@
-#include "RTClib.h"
+#include "RTClib.h"              /* https://downloads.arduino.cc/libraries/github.com/adafruit/RTClib-2.1.4.zip */
 #include <EEPROM.h>
-#include "Adafruit_Thermal.h"
+#include "Adafruit_Thermal.h"    /* https://downloads.arduino.cc/libraries/github.com/adafruit/Adafruit_Thermal_Printer_Library-1.4.1.zip */
 #include "SoftwareSerial.h"
-#include <LiquidCrystal_I2C.h>
+#include <LiquidCrystal_I2C.h>   /* https://downloads.arduino.cc/libraries/github.com/johnrickman/LiquidCrystal_I2C-1.1.2.zip */
 
 #define TX_PIN 8
 #define RX_PIN 9
