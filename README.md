@@ -1,6 +1,6 @@
 # Mesin Antrian PRAMIKA dengan RTC.DS3231 MINIPOS.MP80U
 
-Proyek ini menggunakan Arduino sebagai kontroler utama kemudian untuk mengambil data waktu menggunakan RTC DS3231. Pada proyek kali ini printer yang digunakan yaitu Printer MINI POS MP-80U atau printer yang sudah support dengan cutPaper. Hanya menggunakan 3 tombol utama untuk digunakan (Counter - Pemilihan Mode - Reset).
+Proyek ini menggunakan Arduino sebagai kontroler utama kemudian untuk mengambil data waktu menggunakan RTC DS3231. Pada proyek kali ini printer yang digunakan yaitu Printer MINI POS MP-80U atau printer yang sudah support dengan cutPaper. Hanya menggunakan 3 tombol utama untuk digunakan (Counter - Pemilihan Mode - Reset). [Pesanan Klinik Pramika]
 
 ## Contacs us : 
 * [Frendi RoboTech](https://www.instagram.com/frendi.co/)
